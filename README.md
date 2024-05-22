@@ -26,8 +26,22 @@ Em geral, apresenta tutoriais, competições, rankings, cursos, dicas, fóruns, 
 *  Pandas
 *  Matplotlib
 *  Seaborn
-  
+
 -------
+ ### 👀 Observações realizadas 👀
+
+Realizar análises é fundamental para compreender a dinâmica do surto, identificar padrões e nos aproximamos de possível solução. 
+
+ * Os municípios mais afetados foram os de Minas Gerais, com Belo Horizonte apresentando o maior número de notificações no estado.
+ * A região Sudeste registrou o maior número de notificações, destacando-se significativamente em relação às demais regiões do país.
+ * As mulheres foram mais afetadas, representando 54,5% das notificações.
+ * O surto de casos atingiu seu pico em 22 de janeiro de 2024, com um total de 16.477 notificações em um único dia.
+
+Dentre essas notificações, foram realizadas análises adicionais presentes no arquivo main. 
+
+-------
+
+
  ### 📊 Alguns gráficos obtidos.📊
 
 * Análise de notificações nas regiões do Brasil.
@@ -55,6 +69,15 @@ Em geral, apresenta tutoriais, competições, rankings, cursos, dicas, fóruns, 
 </div>
 
 -------
+
+### 🔗 Links 🔗
+
+Para visualizar uma versão gráfica desse projeto, acesse o link abaixo:
+
+Link: <a>[Dashboard casos de dengue](https://github.com/Rafadrodrigues/Dashboard_casos_de_dengue)</a>
+
+-------
+
 ### 🛣 Como usar 🛣
 ### Clone o repositorio
 git clone https://github.com/Rafadrodrigues/analise_casos_dengue_brasil.git
@@ -63,12 +86,8 @@ git clone https://github.com/Rafadrodrigues/analise_casos_dengue_brasil.git
 $ cd analise_casos_dengue_brasil
 
 --------
--------
-### 👨‍💻 Desenvolvedor 👨‍💻
-* <a>https://github.com/Rafadrodrigues</a>
---------
 ### ⚠️Importante⚠️
 * Site para baixar o Python:https://www.python.org/downloads/
 * Site para baixar o Anaconda:https://www.anaconda.com/download
 * Este código foi construído no Windows 10 64x, não foi testado em Linux.
---------
+
