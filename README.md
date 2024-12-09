@@ -87,3 +87,7 @@ Você também pode ter uma visualização uma versão gráfica desse projeto uti
 
 ### [Casos de Dengue](https://app.powerbi.com/view?r=eyJrIjoiZGZlY2QxMTgtMmQ0OC00YjRlLWE5MzktODA2ZDMyMDM2MzE4IiwidCI6IjJiYTRlZTQ2LTc0MzItNGFkNS05MGY3LTRkMzJhMTMwOGIxYyJ9)
 
+Você também pode ter mais informações desse projeto nesse repositório.
+
+### [Dashboard_casos_de_dengue](https://github.com/Rafadrodrigues/Dashboard_casos_de_dengue)
+
