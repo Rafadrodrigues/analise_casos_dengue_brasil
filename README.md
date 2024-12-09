@@ -3,7 +3,7 @@
 O vírus da dengue é transmitido pela picada da fêmea do Aedes aegypti, um mosquito que costuma picar durante o dia (no início da manhã ou no final da tarde) e se multiplica em locais onde tem água parada. Ele vive dentro das casas e ao redor de residências, 
 é nesse tipo de lugar que o mosquito encontra condições ideais para se proliferar como em quintais e calçadas, por isso os cuidados precisam ser contínuos.
 
-A base de dados utilizada no retirada na plataforma da **Kaggle** por Jadson Rafael por meio dessas informações busco realizar uma análise explanatória e colaborar na compreensão do quanto dessa doença que vem afetando grande parte da população brasileira.. 
+A base de dados utilizada no retirada na plataforma da **Kaggle** por Jadson Rafael por meio dessas informações busco realizar uma análise descritiva e colaborar na compreensão do quanto dessa doença que vem afetando grande parte da população brasileira.. 
 
 Acesse a base de dados no link abaixo.
 ### [DENGUE CASE NOTIFICATION 2024-BR](https://www.kaggle.com/datasets/jadsonrafael/notificao-de-casos-de-dengue-2024-br)
@@ -85,5 +85,5 @@ Por este gráfico observamos o crescimento das notificações de dengue, desde o
 
 Você também pode ter uma visualização uma versão gráfica desse projeto utilizando **Power Bi**, para visualizar acesse o link abaixo:
 
-### [Dashboard casos de dengue](https://github.com/Rafadrodrigues/Dashboard_casos_de_dengue)
+### [Casos de Dengue](https://app.powerbi.com/view?r=eyJrIjoiZGZlY2QxMTgtMmQ0OC00YjRlLWE5MzktODA2ZDMyMDM2MzE4IiwidCI6IjJiYTRlZTQ2LTc0MzItNGFkNS05MGY3LTRkMzJhMTMwOGIxYyJ9)
 
